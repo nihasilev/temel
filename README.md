@@ -2,7 +2,7 @@
 Bir yazılım dilini, daha önceden kullanan insanlara tekrardan hatırlatmak için; 
 tek bir program örneğinde, tüm araç ve fonksiyonları gösteren anlaşılır özetler yazmak.
 
-1.kural: her yazılım dili için yalnızca 1 adet program olmak zorunda.
+1.kural: her yazılım dili için yalnızca bir adet program olmak zorunda.
 2.kural: bir program, temsil ettiği yazılım dilinin tüm foksiyonlarını ve temellerini içermeli.
 3.kural: basit, anlaşılır ve mantıklı örnek kodlar yazılmalı.
 4.kural: programların için açıklama satırı bulunmamalı.
